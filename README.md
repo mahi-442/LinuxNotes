@@ -42,3 +42,19 @@ It shows which processor is consuming more memory
 
 It shows at what time the processor is started.
 ```
+# uptime
+```
+It shows how many users are logged in, from how long the system is running, and the load average of the system
+```
+# w
+```
+It shows how many users are logged in and what they are performing.
+```
+# top
+```
+# It shows how many users are logged in, how many processors are running, how many are sleeping, how many are stopped, and Zombie state should be zero
+```
+# Zombie
+```
+# For every processor there is a parent class and if the child class is killed and it is not updated to parent class, that is zombie process.
+```
