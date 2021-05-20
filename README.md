@@ -26,3 +26,19 @@ awk options 'selection _criteria {action}' input-file > output-file
 Below is the command to print 5th line of top command:
 awk '{print $5}' top.txt
 ```
+# Process Management
+```
+Process management:
+
+Up on we hosted the application on the server, there are many processors running to see the process we use the command called PS
+
+PS aux
+
+It shows User Name, Process ID, %CPU, % Memory, Start time
+
+It shows which processor is consuming more CPU
+
+It shows which processor is consuming more memory
+
+It shows at what time the processor is started.
+```
